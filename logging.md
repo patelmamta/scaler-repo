@@ -1,2 +1,4 @@
-* Test 1
-* Test 2
+* Step 1
+	- git clone the repository
+* Step 2
+	- Add origin
